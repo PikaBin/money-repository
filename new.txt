@@ -1,3 +1,4 @@
 this is a new text
 this is a second line.
 fix conflict.
+fix bug001.
