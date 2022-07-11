@@ -1,6 +1,6 @@
 this is a new text
 this is a second line.
 fix conflict!
-test for fetch and merge!
+
 
 
